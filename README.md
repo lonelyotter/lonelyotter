@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 - 📖 Major in Information Engineering @SJTU
-- ⌨️ Code occasionally
 <!--
 
 - 🔭 I’m currently working on ...
