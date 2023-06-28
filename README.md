@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 📖 Bachelor in Information Engineering @SJTU
 - 📖 MSc in Big Data Technology @HKUST
+- 📖 Bachelor in Information Engineering @SJTU
 <!--
 
 - 🔭 I’m currently working on ...
