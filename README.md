@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-- 📖 Major in Information Engineering @SJTU
+- 📖 Bachelor in Information Engineering @SJTU
+- 📖 MSc in Big Data Technology @HKUST
 <!--
 
 - 🔭 I’m currently working on ...
